@@ -1,0 +1,2 @@
+# PyCharm
+linux for Pycharm
